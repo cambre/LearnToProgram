@@ -15,4 +15,4 @@ while price > 4.75:
     start_of_price = where + 2
     end_of_price = start_of_price + 4
     price = float(text[start_of_price:end_of_price])
-print(price)
+print("The price of coffee is " + str(price))
