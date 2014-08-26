@@ -1,6 +1,7 @@
 # Loyal customer Price
 # Only displays when price is under $4.75
 # Added 15 second delay.
+# Test to branch 1.0
 
 __author__ = 'Cambre'
 
