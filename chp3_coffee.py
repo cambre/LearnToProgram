@@ -1,4 +1,3 @@
-# Send_to_twitter_status
 # Had to be modified - can't follow instructions in book for Twitter
 
 import urllib.request
